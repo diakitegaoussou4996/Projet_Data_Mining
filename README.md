@@ -1,6 +1,6 @@
 # Projet_Data_Mining
-dgzjhajaia
-Description des données
+
+### Description des données
 base-cc-tourisme-2022-geo2022-CSV:
 
 base-cc-tourisme-2022-geo2022-CSV/base-cc-tourisme-2022-geo2022.csv (La capacité des communes en hébergement touristique)
@@ -19,14 +19,16 @@ Utiliser une méthode adéquate pour imputer les valeurs manquantes (expliquer e
 
 Analyser la corrélation des variables
 
-ACP
+### ACP
+
 Effectuer une ACP sur le jeu de données
 Expliquer toutes les étapes de votre ACP.
 Représenter sur un graphique de deux dimensions les communes de France.
 Expliquer votre graphique:
 Expliquer les deux axes obtenus (en utilisant les variables du jeu de données de départ)
 Expliquer le positionnement de quelques communes sur votre graphique (quels sont les elements qui caractérisent ces communes ?)
-Clustering
+
+### Clustering
 Proposer et implementer une méthode de clustering sur le jeu de données.
 Expliquer toutes les étapes de votre approche.
 Justifier votre choix du nombre de clusters.
